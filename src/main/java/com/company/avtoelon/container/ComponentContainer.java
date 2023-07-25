@@ -12,7 +12,7 @@ public class ComponentContainer {
 
     public static AvtoElon MY_BOT = null;
     public static String BOT_USERNAME = "https://t.me/Avtoadbot";
-    public static String BOT_TOKEN = "5768886364:AAHgFneNvbrocM9lYYUiyA46g61X0XfrLuY";
+    public static String BOT_TOKEN = "";
 //
 //    public static String BOT_TOKEN = "5554002985:AAG2Hj9P9AzaFJGUIozIX9_05qMUp7_3Ljk";
 //    public static String BOT_USERNAME = "t.me/avto_elonuz_bot";
